@@ -1,4 +1,4 @@
-# password-saving-script ##python
+# password-fetching-script ##python
 this is a password fetching/saving script,
 that helps to save and retrieve passwords from the cmd terminal automatically
 
